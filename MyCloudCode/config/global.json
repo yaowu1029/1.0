@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Recommended News": {
+            "applicationId": "0Vq934x3ZeVMqGnuSysqhKcEIHfXi9aW54NchyMH", 
+            "masterKey": "HJQQBOcRdh6JaphkvX8Rq40bpWKVcdUJzUU48H82"
+        }, 
+        "_default": {
+            "link": "Recommended News"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}
